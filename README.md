@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrAitch64
-- 👀 I’m interested in learning to maintaining a football club website
+- 👀 I’m interested in learning to build and maintain a football club website
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on website design and updates
 - 📫 How to reach me ...
